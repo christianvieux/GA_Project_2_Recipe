@@ -35,11 +35,15 @@ Visit the live application [here.](http://44.215.35.137:3000/home)
    ```bash
    git clone https://github.com/christianvieux/GA_Project_2_Recipe
    ```
-2. Install dependencies:
+2. Head to the project folder:
+   ```bash
+   cd GA_Project_2_Recipe
+   ```
+3. Install dependencies:
    ```bash
    npm install
    ```
-3. Create a `.env` file in the root directory and set up your environment variables:
+4. Create a `.env` file in the root directory and set up your environment variables:
    ```bash
    NODE_ENV=development
    PORT=3000
@@ -48,11 +52,11 @@ Visit the live application [here.](http://44.215.35.137:3000/home)
    PASSWORD=<your-secure-password>
    SESSION_SECRET="<your-session-secret>"
    ```
-4. Run the app:
+5. Run the app:
    ```bash
    npm start
    ```
-5. Visit `http://localhost:3000` in your browser. If it doesn't work check the console or the port 3000 might be already in use.
+6. Visit `http://localhost:3000` in your browser. If it doesn't work check the console or the port 3000 might be already in use.
 ## Future Improvements
 - Improve UI/UX more.
 - Add more content.
