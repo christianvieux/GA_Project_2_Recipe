@@ -1,7 +1,7 @@
 # Recipe CRUD App
 ## Description
 This is a Recipe CRUD (Create, Read, Update, Delete) web application built as my **Project 2** submission for the **General Assembly** Software Engineering Immersive bootcamp. The app allows users to share their recipes by adding, viewing, editing, and deleting them. Built with the MERN stack (MongoDB, Express.js, React, Node.js), this project demonstrates full-stack development skills and RESTful API implementation learned during the bootcamp.
-## 🌐 Live App
+## Live App 🌐
 Visit the live application [here.](https://recipes.projects.christianvieuxdev.com/home)
 ## Features
 - **User Authentication**: Register and login to manage your recipes
